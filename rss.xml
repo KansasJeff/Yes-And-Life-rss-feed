@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+
+<title>Yes, And... Life!</title>
+
+<description>
+A podcast about improv, creativity, leadership, AI, and the unscripted art of being human.
+</description>
+
+<link>
+https://github.com/KansasJeff/Yes-And-Life-rss-feed
+</link>
+
+<language>en-us</language>
+
+<itunes:author>Jeff McNabb</itunes:author>
+
+<itunes:summary>
+Jeff McNabb explores improv, leadership, creativity, AI, Rotary, small business, and the human side of modern technology.
+</itunes:summary>
+
+<itunes:explicit>false</itunes:explicit>
+
+<itunes:category text="Arts"/>
+
+<itunes:image href="https://PLACEHOLDER-COVER-ART-URL.jpg"/>
+
+<!-- Approved podcast episodes will appear below -->
+
+</channel>
+
+</rss>
