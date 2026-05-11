@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <rss version="2.0"
- xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
 
@@ -28,7 +29,30 @@ Jeff McNabb explores improv, leadership, creativity, AI, Rotary, small business,
 
 <itunes:image href="https://raw.githubusercontent.com/KansasJeff/Yes-And-Life-rss-feed/main/Season%202.png"/>
 
-<!-- Approved podcast episodes appear below -->
+<!-- Approved podcast episodes will appear below -->
+
+<item>
+
+<title>Agentic Chaos News Episode 1</title>
+
+<description>
+The debut episode of Agentic Chaos News.
+</description>
+
+<enclosure
+url="https://pub-495c2b67f2d245fd9be643050f7562f4.r2.dev/agentic_chaos_1778464192426.mp3"
+length="10000000"
+type="audio/mpeg"/>
+
+<guid>
+episode-1
+</guid>
+
+<pubDate>
+Sun, 10 May 2026 22:30:00 GMT
+</pubDate>
+
+</item>
 
 </channel>
 
